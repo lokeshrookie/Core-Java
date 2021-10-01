@@ -1,4 +1,4 @@
-package com.Lokesh;
+package com.Lokes;
 
 public class BooleanPractice {
     public static void main(String[] args) {
