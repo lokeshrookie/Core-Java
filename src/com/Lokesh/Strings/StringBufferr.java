@@ -11,13 +11,9 @@ public class StringBufferr {
         int R = inp.nextInt();
         inp.nextLine();
         inp.close();
-
         System.out.println(solve(S, L, R));
-
     }
-
     //complete the function below
-
     public static String solve(String s, int L, int R) {
 
         String sub = s.substring(L, R + 1);
