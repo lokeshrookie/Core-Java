@@ -3,6 +3,7 @@ import java.util.Locale;
 import  java.lang.StringBuffer;
 public class StringsPractice
 {
+    //String class Methods
     public static void main(String[] args)
     {
 
