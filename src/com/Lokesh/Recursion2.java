@@ -3,7 +3,7 @@ package com.Lokesh;
 import java.util.Scanner;
 // Factorial program using Recursion
 public class Recursion2 {
-    public static void main(String[] args) {FA
+    public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("enter a number to calculate factorial :");
         int n = s.nextInt();
