@@ -13,7 +13,7 @@ public class StringBufferr {
         inp.close();
         System.out.println(solve(S, L, R));
     }
-    //complete the function below
+    //Function : solve
     public static String solve(String s, int L, int R) {
 
         String sub = s.substring(L, R + 1);
