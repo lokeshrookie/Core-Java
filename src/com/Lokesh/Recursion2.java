@@ -1,9 +1,9 @@
 package com.Lokesh;
 
 import java.util.Scanner;
-
+// Factorial program using Recursion
 public class Recursion2 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {FA
         Scanner s = new Scanner(System.in);
         System.out.println("enter a number to calculate factorial :");
         int n = s.nextInt();
