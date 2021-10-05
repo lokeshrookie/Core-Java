@@ -3,7 +3,7 @@ package com.Lokesh;
 //Abstraction can be achieved with either abstract classes or interfaces
 import java.util.*;
 
-// Abstract class
+// Abstract class named Animal
 abstract class Animal {
     // Abstract method (does not have a body)
     public abstract void animalSound();
