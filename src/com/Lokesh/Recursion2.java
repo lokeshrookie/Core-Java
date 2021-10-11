@@ -7,6 +7,7 @@ public class Recursion2 {
         Scanner s = new Scanner(System.in);
         System.out.println("enter a number to calculate factorial :");
         int n = s.nextInt();
+        s.close(); 
         System.out.println("The factorial is :" + fact(n));
     }
 
