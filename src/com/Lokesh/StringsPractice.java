@@ -1,13 +1,14 @@
 package com.Lokesh;
-import java.util.Locale;
-import  java.lang.StringBuffer;
+// import java.util.Locale;
+// import  java.lang.StringBuffer;
 public class StringsPractice
 {
     //String class Methods
     public static void main(String[] args)
     {
 
-        String T = "First String ", U = "second string";
+        String T = "First String ";
+        // U = "second string";
 //        System.out.println(T.length()); //it counts blank spaces also
 //        System.out.println(T.toUpperCase());
 //        System.out.println(T.toLowerCase());

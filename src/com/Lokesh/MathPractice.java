@@ -1,8 +1,8 @@
 package com.Lokesh;
-import javax.swing.plaf.synth.SynthLookAndFeel;
+// import javax.swing.plaf.synth.SynthLookAndFeel;
 public class MathPractice {
     public static void main(String[] args) {
-        int d =2,b=3,c =-3;
+        int d =2,b=3;
         double  a = 2.34f;
         float o = 2.54f;
 //        System.out.println(Math.max(a,b));
