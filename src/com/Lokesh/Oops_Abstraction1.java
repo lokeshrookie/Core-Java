@@ -1,7 +1,4 @@
 package com.Lokesh;
-///Data abstraction is the process of hiding certain details and showing only essential information to the user.
-//Abstraction can be achieved with either abstract classes or interfaces
-import java.util.*;
 
 // Abstract class named Animal
 abstract class Animal {
@@ -20,7 +17,7 @@ class Pig extends Animal {
         System.out.println("The pig says: wee wee");
     }
 }
-
+//abs
 class  Oops_Abtraction1 {
     public static void main(String[] args) {
         Pig myPig = new Pig(); // Create a Pig object
@@ -28,8 +25,6 @@ class  Oops_Abtraction1 {
         myPig.sleep();
     }
 }
-
-
 
 
 //The abstract keyword is a non-access modifier, used for classes and methods:
