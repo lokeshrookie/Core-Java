@@ -12,6 +12,7 @@ public class SubString {
         String A = s.next();
         int start = s.nextInt();
         int end = s.nextInt();
+        s.close();
         System.out.println(A.substring(start , end+1));
         // String sub = A.substring(start, end);
         for (int i = 0; i < A.length(); i++){
