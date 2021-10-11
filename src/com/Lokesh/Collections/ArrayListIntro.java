@@ -6,6 +6,7 @@ public class ArrayListIntro {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int size = s.nextInt();
+        s.close();
         ArrayList<Integer> Al = new ArrayList<Integer>(size);
         Al.add(5);
         Al.add(77);
