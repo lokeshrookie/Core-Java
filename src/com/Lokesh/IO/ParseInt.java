@@ -7,7 +7,7 @@ public class ParseInt {
         // Scanner s = new Scanner(System.in);
 //        String a = s.next(); // to take the input
         String b = "5";
-        String e = "loki";
+        // String e = "loki";
         int c = 111;
         int  d = 1000;
        System.out.println(Integer.toBinaryString(c));
