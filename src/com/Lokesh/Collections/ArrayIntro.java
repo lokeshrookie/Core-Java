@@ -1,6 +1,6 @@
 package com.Lokesh.Collections;
 
-import java.util.Scanner;
+// import java.util.Scanner;
 
 public class ArrayIntro {
     public static void main(String[] args) {

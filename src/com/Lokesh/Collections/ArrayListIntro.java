@@ -12,7 +12,7 @@ public class ArrayListIntro {
         Al.add(66);
         Al.add(73);
         System.out.println(Al.contains(66));
-        Object[] arr = Al.toArray();
+        // Object[] arr = Al.toArray();
 //        System.out.println(List.toArray(arr[]));
 //        System.out.println(Al);
 //        System.out.println(Al.size());

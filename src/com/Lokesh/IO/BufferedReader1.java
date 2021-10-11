@@ -1,6 +1,6 @@
 package  com.Lokesh.IO;
-import java.lang.*;
-import java.util.*;
+// import java.lang.*;
+// import java.util.*;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

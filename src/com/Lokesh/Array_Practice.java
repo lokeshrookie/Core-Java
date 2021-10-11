@@ -1,4 +1,4 @@
-package com.Lokesh.Io;
+package com.Lokesh;
 //BASIC OPERATION ON ARRAYS LIKE INITIALIZATION AND TRAVERSE ADN SUM OF ALLL THE ELEMENTS AND AVERAGE OF ALL THE ELEMENTS
 public class Array_Practice{
     public static void main (String[] args) {
