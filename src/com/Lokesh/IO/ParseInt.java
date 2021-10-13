@@ -19,8 +19,7 @@ public class ParseInt {
        System.out.println(Integer.decode(b)); // string to int
         System.out.println(Integer.highestOneBit(c)); // n = 100. since 1 is
 
-
-
+        
 //        System.out.println(Integer.max(Integer.parseInt(a),Integer.parseInt(b))); // to find the max of two numbers using parseInt().
 
         /*
